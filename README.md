@@ -1,3 +1,16 @@
+Installation
+
+    Clone this project git clone https://github.com/sasindusenanayake/React-based-Web-Application.git
+    Install all packages with npm install
+    Start the server with npm start
+    
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
