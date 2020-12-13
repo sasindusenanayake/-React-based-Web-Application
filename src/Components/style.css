@@ -1,0 +1,108 @@
+footer {
+    background: #16222A;
+    background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
+    background: linear-gradient(59deg, #3A6073, #16222A);
+    color: white;
+    margin-top:0px;
+    margin-bottom: 0px;
+    
+    height: auto;
+    width: 100%;
+  }
+  
+  .copy {
+    font-size: 12px;
+    padding: 10px;
+    border-top: 1px solid #FFFFFF;
+  }
+  
+  .footer-middle {
+    padding-top: 2em;
+    color: white;
+  }
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .webmadewell {
+    background-color: white;
+  }
+  body {
+    margin: 0;
+  }
+  .sample-header {
+    
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+    background-image: url("https://cdn.hipwallpaper.com/m/20/35/7MrAEW.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 0 0 90% 90% / 20%
+  }
+  .sample-header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(2, 2, 61);
+    opacity: 0.3;
+  }
+  .sample-header-section {
+    position: relative;
+    padding: 15% 0 10%;
+    max-width: 640px;
+    margin-left: auto;
+    text-align: center;
+  
+    margin-right: auto;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    font-family: "Montserrat", sans-serif;
+  }
+  h1 {
+    font-weight: 500;
+  }
+  h2 {
+    font-weight: 400;
+  }
+  .sample-section-wrap {
+    position: relative;
+    background-color: white;
+  }
+  .sample-section {
+    position: relative;
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+  }
+  
+  
